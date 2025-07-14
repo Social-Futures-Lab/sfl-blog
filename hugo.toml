@@ -7,7 +7,7 @@ theme = "anubis2"
 pagerSize = 5
 
 [params.author]
-name = "Junyi"
+name = "Social Futures Lab"
 
 [[menu.main]]
 identifier = "home"
@@ -28,8 +28,8 @@ url = "/tags/"
 weight = 3
 
 [[menu.main]]
-name = "Archive"
-identifier = "archive"
+name = "Blog"
+identifier = "blog"
 url = "/posts/"
 weight = 4
 
