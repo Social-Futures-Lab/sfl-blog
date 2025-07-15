@@ -2,4 +2,4 @@
 title: "Blog"
 ---
 
-here is the blog
+**Blog Posts**
