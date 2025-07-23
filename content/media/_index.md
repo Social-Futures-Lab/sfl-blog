@@ -39,10 +39,6 @@ title: "Media"
 <img src="https://m.media-amazon.com/images/I/71fvlMsZ6OL.jpg" alt="CrowsourcingL Why the Power of the Crowd is Driving the Future of Business book cover" width="200">
 
 
-- *The Serviceberry: Abundance and Reciprocity in the Natural World* by Robin Wall Kimmerer
-
-<img src="https://m.media-amazon.com/images/I/71cqb8HTJOL.jpg" alt="The Serviceberry: Abundance and Reciprocity in the Natural World book cover" width="200">
-
 - *The Art of Gathering: How We Meet and Why it Matters* by Priya Parker
   
 <img src="https://m.media-amazon.com/images/I/71mJDR87X8L.jpg" alt="The Art of Gathering: How We Meet and Why it Matters book cover" width="200">
