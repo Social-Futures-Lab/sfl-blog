@@ -2,5 +2,4 @@
 title: "Blog"
 ---
 
-**Blog Posts**
 
