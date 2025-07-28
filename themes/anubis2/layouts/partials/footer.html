@@ -58,10 +58,7 @@
                 {{ i18n "powered" }} <a target="_blank" rel="noopener noreferrer" href="https://gohugo.io/">Hugo</a>, {{ i18n "theme" }} <a target="_blank" rel="noopener noreferrer" href="https://github.com/hugo-theme-anubis2/hugo-theme-anubis2">Anubis2</a>.<br>
             </div>
         {{ end }}
-        <div class="subscribe">
-           {{ async src="https://eocampaign1.com/form/0e431222-6bea-11f0-a4f9-27b565dbadce.js" data-form="0e431222-6bea-11f0-a4f9-27b565dbadce"> }}
-           {{ end }} 
-        </div>
+    {{ partial "subscribe.html" . }} 
     </div>
 
     {{ partial "h-card.html" . }}
