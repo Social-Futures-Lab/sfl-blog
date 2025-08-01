@@ -39,8 +39,13 @@ identifier = "media"
 url = "/media/"
 weight = 5
 
-[markup.goldmark.renderer]
-unsafe = true # Enable unsafe mode to have a better experience
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [markup.highlight]
 style              = 'catppuccin-frappe' # Find more style at here: https://swapoff.org/chroma/playground/
+
+[params.anubis2]
+  customCSS = ["css/custom.css"]
