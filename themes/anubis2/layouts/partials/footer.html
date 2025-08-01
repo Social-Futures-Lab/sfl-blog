@@ -3,7 +3,9 @@
     {{ if gt $languagesCount 1 }}
         {{ partial "language-switcher.html" . }}
     {{ end }}
-
+    
+    {{ partial "subscribe.html" . }} 
+    
     <div class="common-footer-bottom">
         {{ if site.Menus.footer }}
             {{ $currentPage := . }}
